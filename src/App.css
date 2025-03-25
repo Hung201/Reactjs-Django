@@ -1,0 +1,43 @@
+.cus-p p {
+  margin-bottom: 6px; 
+  font-size: 13px;
+  color: rgb(144, 143, 143);
+}
+.cus-p h5{
+  font-size: 18px;
+}
+
+.cus-p #favicon img{
+  width: 30px;
+  margin-right: 8px;
+}
+
+.hover-underline {
+    text-decoration: none;
+}
+ 
+.hover-underline:hover {
+    text-decoration: underline;
+}
+ 
+.cart-item input {
+    width: 60px;
+    margin-right: 10px;
+  }
+ 
+.cart-item input {
+    width: 60px;
+    margin-right: 10px;
+}
+ 
+.cart-item button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+ 
+  .cart-item button:hover {
+    background-color: #c82333;
+  }

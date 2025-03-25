@@ -1,0 +1,32 @@
+/* Custom CSS for the Payment component */
+ 
+/* Ensuring full width for select elements */
+.form-select {
+    width: 100%;
+  }
+   
+  /* Custom styles for the card displaying cart items */
+  .card {
+    margin-bottom: 20px;
+  }
+   
+  /* Custom styles for the product list inside the card */
+  .card .mb-3 {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+   
+  /* Ensuring padding around the form elements */
+  .form-label {
+    margin-bottom: 5px;
+  }
+   
+  .form-control {
+    margin-bottom: 15px;
+  }
+   
+  /* Custom styles for the total amount section */
+  .text-danger {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
